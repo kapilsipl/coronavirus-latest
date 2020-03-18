@@ -1,15 +1,14 @@
 {
-  "name": "coronavirus-latest",
+  "name": "rona",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "next"
   },
-  "author": "KPL",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "@material-ui/core": "^4.9.7",
     "next": "^9.3.0",
     "normalize.css": "^8.0.1",
     "react": "^16.13.0",
