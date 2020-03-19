@@ -1,5 +1,5 @@
-# coronavirus-latest
-Latest updates of coronavirus
+# Coronavirus-latest
+Latest updates of Corona Virus
 
 Code along with React Hooks API + Next
 
