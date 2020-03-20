@@ -1,12 +1,13 @@
 {
-  "name": "rona",
+  "name": "corona",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "next"
+    "start": "next",
+	"build": "next build"
   },
-  "author": "",
+  "author": "kpl",
   "license": "ISC",
   "dependencies": {
     "next": "^9.3.0",
