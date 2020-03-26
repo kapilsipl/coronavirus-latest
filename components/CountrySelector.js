@@ -9,7 +9,7 @@ export default function CountrySelector() {
   
 console.log('added by kpl');
 
-  const [selectedCountry, setSelectedCountry] = useState('USA');
+  const [selectedCountry, setSelectedCountry] = useState('IND');
   if (loading) return <p>Loading...</p>;
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error...</p>;
